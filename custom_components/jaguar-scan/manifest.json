@@ -1,0 +1,9 @@
+{
+  "domain": "jpenschuck",
+  "name": "jaguar-scan",
+  "documentation": "https://www.example.com",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "iot_class": "cloud_polling"
+}
